@@ -3,7 +3,7 @@ import React from "react";
 const Header = () => {
   return (
     <div>
-      <h2></h2>
+      <h2>Fatehpur Sanskritik Parishad</h2>
     </div>
   );
 };
