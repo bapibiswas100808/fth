@@ -7,8 +7,8 @@ import "./Header.css";
 const Header = () => {
   return (
     <section>
-      <div className="header-area">
-        <Navbar bg="secondary" expand="lg">
+      <div className="header-area border-bottom border-white">
+        <Navbar bg="success" expand="lg">
           <Container className="py-3">
             <Navbar.Brand className="text-white fs-3" href="#home">
               ফতেপুর সাংস্কৃতিক পরিষদ

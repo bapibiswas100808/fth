@@ -1,4 +1,21 @@
 .carousel-item img {
-  max-height: calc(100vh - 95px);
+  max-height: calc(100vh - 100px);
   width: 100%;
+  opacity: 0.9;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  border-radius: 50%;
+  background-color: red;
+  padding: 30px;
+}
+.carousel-caption {
+  bottom: 50% !important;
+  transform: translateY(50%);
+}
+.carousel-caption h3 {
+  font-size: 60px;
+}
+.carousel-caption p {
+  font-size: 30px;
 }
