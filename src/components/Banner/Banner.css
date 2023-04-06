@@ -1,5 +1,5 @@
 .carousel-item img {
-  max-height: calc(100vh - 100px);
+  max-height: calc(100vh - 79px);
   width: 100%;
   opacity: 0.9;
 }
@@ -14,7 +14,7 @@
   transform: translateY(50%);
 }
 .carousel-caption h3 {
-  font-size: 60px;
+  font-size: 45px;
 }
 .carousel-caption p {
   font-size: 30px;

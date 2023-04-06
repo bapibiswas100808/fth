@@ -15,7 +15,7 @@ const Gallery = () => {
       <div className="gallery-area">
         <Container>
           <h3 className="text-center pb-4 text-white text-uppercase">
-            See Our Events
+            photo gallery
           </h3>
           <Row>
             {gallery.map((item) => (
